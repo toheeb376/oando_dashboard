@@ -1,4 +1,4 @@
-os
-streamlit 
-pandas 
+streamlit
+pandas
 plotly
+openpyxl
