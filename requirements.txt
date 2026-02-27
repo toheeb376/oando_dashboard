@@ -1,4 +1,4 @@
 os
-streamlit as st
-pandas as pd
+streamlit 
+pandas 
 plotly.express
